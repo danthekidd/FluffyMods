@@ -60,6 +60,11 @@ hash = "bc9905492f54c07bb62a5126a3ef53188a71a52ada9dc2a84a2888fba6739906"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
 file = "mods/durabilityviewer.pw.toml"
 hash = "dd14faa78d5204f09aa6e2edc27953927f72c0ebb7e8deb81ba3fe4fa734b9f5"
 metafile = true
@@ -90,8 +95,23 @@ hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
 file = "mods/loyal-items.pw.toml"
 hash = "6ea90857471e7f4ef99db7f3ad08ed70ffdd2d01fc56974e55fe682ef15ec473"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -152,4 +172,9 @@ metafile = true
 [[files]]
 file = "mods/wunderreich.pw.toml"
 hash = "f2fa90bb1460fcee29cf2aee3a077e3114b5437a5659587f6d083ff977a19320"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
 metafile = true
