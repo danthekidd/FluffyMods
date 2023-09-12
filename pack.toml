@@ -1,0 +1,13 @@
+name = "Fluffy Mods"
+author = "flu.ff"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4489cdb03d4b7b0d0fd4bee95a1392b289a6e12e83c53dd154e5f2edcfb13e7f"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"

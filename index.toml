@@ -1,0 +1,150 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "6852c5660e8b1091694e5350f2cbb7fff8f0e067d5fb1581982d5c78f90a655c"
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "82b70b3ca30f3eedea12049a414cf30baae722c79128b17789a93b6906dc3ca5"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "1a59c3b66f35ee3c410c63899fe67f6463354fdc7bc326f4a9f199e0ffe0d056"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "09faca3cde7ffda49fcd3d4fc4f4a3d4f8774463170dfee83d6472f64bc84016"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "bb1ce36de0df1b27894c1270d6d8bdb6f34b77eb26ed6cac19ef4bd80ae41cd8"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/coordinates-display.pw.toml"
+hash = "0e426ac795dde953c1d3f580381e0e378764149472f05d9ef0b9dd6066cc7f81"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "bc9905492f54c07bb62a5126a3ef53188a71a52ada9dc2a84a2888fba6739906"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.pw.toml"
+hash = "dd14faa78d5204f09aa6e2edc27953927f72c0ebb7e8deb81ba3fe4fa734b9f5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8f7e28eb56a3f538cf2be43c03aea1c5b3017a5fe0429a6b67b052e0f6c0b5d4"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e394b1a364551e504f32e65bf1ad6bd5a17b0250d4715c7bf4955840fe2d398b"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "6afa8009ec93e4deec4e36fc341d768f62506abe6fbf10307c679fb87d16778e"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c068d98a1cc89baf3607efd841c9a8073bcdc2e95a1331de12308b65710df0cb"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+metafile = true
+
+[[files]]
+file = "mods/loyal-items.pw.toml"
+hash = "6ea90857471e7f4ef99db7f3ad08ed70ffdd2d01fc56974e55fe682ef15ec473"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
+file = "mods/mythic-mobs.pw.toml"
+hash = "2b060b93c32a27a19d6b01a98c097b0881076eb88466ba73bf8b463a47ca784e"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "f6859b8ab85cec21b73713fa9bda2012a7c54ea7d3a35cbdd86d1ec42365cf4f"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "a1fd826038c193e91c0ac45648b93721760c3e4f0fbddde169952e93bc348df7"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "2cc40f90565538ed48daa25af8b59240eebc50e9cc2788f4ef73dfa23e87d387"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "a43535d26ddabd919052845f7c6a4f67aece1c54dbeb62d4645cd36ec62f877b"
+metafile = true
+
+[[files]]
+file = "mods/wunderreich.pw.toml"
+hash = "f2fa90bb1460fcee29cf2aee3a077e3114b5437a5659587f6d083ff977a19320"
+metafile = true
