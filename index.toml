@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "6852c5660e8b1091694e5350f2cbb7fff8f0e067d5fb1581982d5c78f90a655c"
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "149062fec33cc9b361650d6aacbbb668381007e14ec6b1ef98fb7e4fe9c51685"
+metafile = true
+
+[[files]]
 file = "mods/aquamirae.pw.toml"
 hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
